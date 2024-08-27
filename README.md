@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to forward to meet new people and learn new things<br>🤝 I'm pretty hardworking <br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about: Web Devlopment<br>⚡ Fun fact : When I am not indulged in the technology world I prefer diving in the world of books 
+🔭 IT Graduate'24<br>👯 I’m looking to forward to meet new people and learn new things<br>🤝 I'm pretty hardworking <br>💬 Ask me about: Web Devlopment,Software Devlopment<br>⚡ Fun fact : When I am not indulged in the technology world I prefer diving in the world of books 
 
 
 ## 🌐 Socials:
